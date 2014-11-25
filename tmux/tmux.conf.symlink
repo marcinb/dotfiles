@@ -1,1 +1,5 @@
+# use zsh
 set-option -g default-shell /bin/zsh
+
+# create 'default' session upon server start
+new-session -A -s hacking
