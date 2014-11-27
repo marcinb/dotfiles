@@ -3,3 +3,6 @@ set-option -g default-shell /bin/zsh
 
 # create 'default' session upon server start
 new-session -A -s hacking
+
+# look good
+set -g default-terminal "screen-256color"
