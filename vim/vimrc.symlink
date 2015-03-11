@@ -33,3 +33,7 @@ set number
 " Make backspace behave normally
 set backspace=2
 set lazyredraw
+
+set expandtab
+set shiftwidth=2
+set softtabstop=2
